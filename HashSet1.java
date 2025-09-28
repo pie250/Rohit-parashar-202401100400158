@@ -13,10 +13,10 @@ public static void main(String[] args) {
     System.out.println("First Set : "+set1);
     HashSet<Integer> set2=new HashSet<>();
     set2.add(6);
-    set2.add(5);
+    set2.add(13);
     set2.add(3);
-    set2.add(8);
-    set2.add(2);
+    set2.add(0);
+    set2.add(23);
     System.out.println("Second Set : "+set2);
     set1.addAll(set2);
     System.out.println("union : "+set1);

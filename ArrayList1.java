@@ -15,7 +15,7 @@ public class ArrayList1 {
         }
         System.out.println(fruits.get(2));
 
-        /*ArrayList Sports=new ArrayList();
+    /*ArrayList Sports=new ArrayList();
         Sports.add("Cricket");
         Sports.add("Badminton");
         Sports.add("Volleyball");*/

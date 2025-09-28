@@ -35,4 +35,3 @@ public class LinkedHashSet2 {
         System.out.println("Second set using Trees :"+s2);
     }
     
-}
