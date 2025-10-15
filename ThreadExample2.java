@@ -8,6 +8,8 @@ class ThreadDemo2 implements Runnable{//Runnable interface
         }}
     }
 }
+//Functional interface: An interface with only one abstract method is known as functional interface.
+//Runnable interface is a functional interface because it contains only one abstract method run().
 
 public class ThreadExample2 {
     public static void main(String[] args) {
